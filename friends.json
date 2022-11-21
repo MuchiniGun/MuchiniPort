@@ -1,0 +1,31 @@
+[
+    {
+        "name" :  {
+            "first" : "Tino",
+            "last" : "Chaminuka"
+        },
+        "age" : "18",
+        "birthday" : "10/09/2003",
+        "country" : "New Zealand",
+        "study" : "Computer Science",
+        "business" : "TOKM Solutions"
+    },
+    {
+        "name" : "Lesedi",
+        "surname" : "Phosa",
+        "age" : "18",
+        "birthday" : "10/09/2003",
+        "country" : "Zimbabwe",
+        "study" : "Life",
+        "business" : "Nomad Brand Marketing"
+    },
+    {
+        "name" : "Ketsile",
+        "surname" : "Dikobe",
+        "age" : "19",
+        "birthday" : "10/09/2003",
+        "country" : "United States of America",
+        "study" : "Data Science",
+        "business" : "TOKM Solutions"
+    }
+]
